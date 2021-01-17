@@ -11,10 +11,12 @@
     "ant-design-vue": "^1.6.5",
     "axios": "^0.20.0",
     "core-js": "^3.6.5",
+    "hls.js": "^0.14.16",
     "lib-flexible": "^0.3.2",
     "qs": "^6.9.4",
     "vant": "^2.10.9",
     "vue": "^2.6.11",
+    "vue-aplayer": "^1.6.1",
     "vue-router": "^3.4.7",
     "vuex": "^3.5.1"
   },

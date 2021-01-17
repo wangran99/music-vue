@@ -10,7 +10,7 @@
 <style lang="less" scoped>
 .header{
     .nav{
-        width: 1600px;
+        width: 100%;
         height: 50px;
         background-color: rgb(245, 171, 223);
         margin-left: auto;

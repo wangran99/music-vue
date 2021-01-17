@@ -17,7 +17,7 @@ module.exports = {
             errors: true
         },
         host: "localhost",
-        port: 8080,
+        port: 8088,
         open: true, // 是否打开浏览器
         proxy: {
             '/api': {
